@@ -1,1 +1,134 @@
+Documentation Source: https://docs.vmware.com/en/VMware-vSphere/index.html
+Questions source: Rick Crisci Udemy Course.
+Answers : Multiple 
+
+Some Interview Questions:
+
+
+1. What are the available VSphere Licensing Editions?
+2. What is vSphere?
+3. What is vClient?
+4. What is virtualization?
+5. What is Platform Services Controller (PSC)?
+6. What is the difference between Embedded PSC and External PSC?
+7. What are the new features in vSphere6.5?
+8. What is a Content Library?
+9. What is the role of Update Manager?
+10. What is a baseline?
+11. What is a patch?
+
+vSphere Networking Questions:
+1. What is the difference between vNIC and vmnic?
+2. What are the different switch types supported by vSphere?
+3. Difference between vSphere Standard switch and vSphere Distributed switch?
+4. Mention some of the virtual switch features?
+5. How do you create a standard vSphere switch?
+6. What is a MTU?
+7. How do you configure a vSphere distributed switch?
+
+vSphere Storage Questions:
+1. What is storage virtualization?
+2. What is VMFS?
+3. Difference between VMFS and NFS?
+4. Difference between NFS version 3 vs 4.1 ? 
+5. How do you create a NFS datastore?
+6. What is Fiber Channel Storage?
+7. What is LUN masking?
+8. What is zoning?
+9. What is FCoE ?
+10. What is iSCSI storage?
+11. What is software iSCSI?
+12. What is Dependent Hardware SCSI?
+13. What is Independent hardware iSCSI initiator?
+14. How do you perform a iSCSI Traget discovery?
+15. What is VSAN?
+
+VMs Questions:
+1. How do you create a VM?
+2. How do you install VmWare tools?
+3. What is a thin-provisioned disk?
+4. How do you inflate a thin-provisioned disk?
+5. How do you clone a VM?
+
+vAPP Questions:
+1. What is a vAPP?
+2. How do you create a vAPP?
+
+Template Questions:
+1. What is a template?
+2. How do you import an OVF template?
+
+Snapshots Questions:
+1. What is a snapshot?
+2. How do you take a snapshot? 
+3. How do you use a snapshot? 
+
+vMotion Questions:
+1. What is vMotion?
+2. How do you configure vMotion?
+3. What is scheduled vMotion?
+4. What is Storage vMotion?
+
+
+HA Questions:
+1. How HA is achieved?
+2. What is HA Admission Control?
+3. What is HA Host Isolation?
+4. What are the new HA features in vSphere 6.5?
+5. What is Proactive HA?
+
+
+DRS Questions:
+1. What is DRS?
+https://geek-university.com/vmware-esxi/vsphere-distributed-resource-scheduler-drs-explained/
+
+2. Explain DRS Affinity rules.
+
+https://docs.vmware.com/en/VMware-vSphere/6.5/com.vmware.vsphere.avail.doc/GUID-E137A9F8-17E4-4DE7-B986-94A0999CF327.html 
+
+
+3. How does DRS and vCenter work together?
+
+4. What is maintenance mode?
+https://geek-university.com/vmware-esxi/maintenance-mode-explained/ 
+
+5. What are DRS Automation levels?
+https://geek-university.com/vmware-esxi/set-drs-automation-level/
+http://techgenix.com/vsphere-drs-automation-levels-explained/
+
+6. What is Resource Fragmantation?
+7. What are the new DRS features in vSphere 6.5?
+8. What is Standby mode?
+
+
+
+What is EVC?
+
+FT Questions:
+1. How FT is achieved in vSphere environment?
+
+What are resource pools?
+
+How data protection is achieved in vSphere?
+
+
+
+vSphere 6.x troubleshooting questions:
+1. How do you verify VM Network confiuration?
+2. How do you verify host networking?
+3. What are ESXi Management Agents?
+4. What are some of the common Installation issues?
+5. What are some of the common storage issues and how do you troubleshoot them?
+6. What are some of the common VM issues and how do you troubleshoot them?
+7. How do you collect and upload VM logs?
+8. How do you work with alarms?
+9. How do you perform vCenter Database maintenance? 
+
+
+
+
+
+
+
+
 
